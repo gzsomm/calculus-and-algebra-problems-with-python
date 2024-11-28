@@ -2,7 +2,7 @@
 # Calculus and algebra in Python - Step by step guide
 <!--endhide-->
 
-- Complete the problems using calculus, algebra and Python.
+- Complete the problems using calculus algebra and Python.
 
 ## 🌱 How to start this project
 
